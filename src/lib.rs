@@ -1,3 +1,5 @@
+//! A collection of utilities
+
 mod macros;
 mod result;
 
