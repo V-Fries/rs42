@@ -3,6 +3,10 @@ name = "rs42"
 version = "0.1.0"
 edition = "2021"
 description = "A collection of utilities"
+authors = ["Vincent Fries"]
+repository = "https://github.com/V-Fries/rs42"
 license = "MIT"
+
+exclude = [".*"]
 
 [dependencies]
