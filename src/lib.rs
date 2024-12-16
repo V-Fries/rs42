@@ -1,4 +1,4 @@
-//! A collection of utilities
+//! rs42 is a collection of utilities to make programming in Rust more enjoyable
 
 mod macros;
 mod result;
